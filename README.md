@@ -1,5 +1,6 @@
 # javascript-practice
 前端编程题精选
+以下几道题筛选自本人在codewar上做的JavaScript编程训练。题干都进行了一定的提炼和改编，可能会有些翻译的不到位的地方。
 
 # 1. 逆波兰表示法（Reverse Polish notation，RPN）
 
